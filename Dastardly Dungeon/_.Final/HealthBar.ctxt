@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=HealthBar(PlayerInfo)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HealthBar,\ prints\ out\ a\ health\ bar\r\n
+comment1.params=
+comment1.target=void\ renderBar()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

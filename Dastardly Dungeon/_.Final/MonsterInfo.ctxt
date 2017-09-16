@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tier
+comment0.target=MonsterInfo(int)
+comment1.params=tier\ player
+comment1.target=MonsterInfo(int,\ PlayerInfo)
+comment2.params=
+comment2.target=void\ genName()
+comment3.params=
+comment3.target=int\ getTier()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

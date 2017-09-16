@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=loc\ tier
+comment0.target=Shop(Point,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ collides()
+comment3.params=
+comment3.target=boolean\ isShop()
+comment4.params=player
+comment4.target=Inventory\ activate(PlayerInfo)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

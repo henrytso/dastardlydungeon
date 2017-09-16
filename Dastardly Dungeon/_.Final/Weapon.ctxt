@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=tier
+comment0.target=Weapon(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weapon\r\n
+comment1.params=
+comment1.target=void\ modify()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=
+comment4.target=int\ getWeight()
+comment5.params=
+comment5.target=int\ getEffectFactor()
+comment6.params=
+comment6.target=int\ getModifier()
+comment7.params=
+comment7.target=int\ getID()
+numComments=8

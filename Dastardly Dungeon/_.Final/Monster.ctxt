@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=loc\ tier
+comment0.target=Monster(Point,\ int)
+comment1.params=
+comment1.target=boolean\ discovered()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=humanLoc
+comment3.target=void\ setPlayerLoc(Point)
+comment4.params=
+comment4.target=boolean\ inRange()
+comment5.params=
+comment5.target=void\ step()
+comment6.params=
+comment6.target=boolean\ collides()
+comment7.params=
+comment7.target=MonsterInfo\ info()
+comment8.params=
+comment8.target=boolean\ isMonster()
+comment9.params=
+comment9.target=void\ update()
+numComments=10

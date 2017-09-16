@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=loc
+comment0.target=Tile(Point)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ collides()
+comment3.params=block
+comment3.target=Tile\ copy(Block)
+numComments=4

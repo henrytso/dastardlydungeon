@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=loc
+comment0.target=Wall(Point)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ collides()
+comment3.params=
+comment3.target=boolean\ isWall()
+numComments=4

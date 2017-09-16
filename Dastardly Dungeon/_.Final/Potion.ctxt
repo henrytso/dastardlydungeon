@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tier
+comment0.target=Potion(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weapon\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getRestore()
+comment3.params=
+comment3.target=int\ getID()
+numComments=4

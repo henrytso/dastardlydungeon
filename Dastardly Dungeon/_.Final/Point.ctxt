@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Point()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Point\r\n
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment10.params=
+comment10.target=Point\ getWest()
+comment2.params=
+comment2.target=int\ X()
+comment3.params=
+comment3.target=int\ Y()
+comment4.params=x\ y
+comment4.target=void\ set(int,\ int)
+comment5.params=a\ b
+comment5.target=void\ change(int,\ int)
+comment6.params=pt
+comment6.target=boolean\ equals(Point)
+comment7.params=
+comment7.target=Point\ getNorth()
+comment8.params=
+comment8.target=Point\ getEast()
+comment9.params=
+comment9.target=Point\ getSouth()
+numComments=11

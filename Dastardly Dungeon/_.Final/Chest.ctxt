@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=loc\ tier
+comment0.target=Chest(Point,\ int)
+comment1.params=
+comment1.target=boolean\ collides()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=boolean\ isChest()
+comment4.params=player
+comment4.target=Inventory\ activate(PlayerInfo)
+comment5.params=player\ monster
+comment5.target=Inventory\ activate(PlayerInfo,\ MonsterInfo)
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=loc\ up
+comment0.target=Staircase(Point,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ isFinalBoss()
+comment3.params=
+comment3.target=void\ setFinalBoss()
+comment4.params=up
+comment4.target=void\ setUp(boolean)
+comment5.params=
+comment5.target=boolean\ collides()
+comment6.params=
+comment6.target=boolean\ up()
+comment7.params=
+comment7.target=boolean\ isStaircase()
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=pla
+comment0.target=FinalBoss(PlayerInfo)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FinalBoss\r\n
+comment1.params=enemy
+comment1.target=void\ doBossCombat(MonsterInfo)
+comment2.params=enemy
+comment2.target=void\ doShopCombat(MonsterInfo)
+comment3.params=
+comment3.target=void\ attack()
+comment4.params=
+comment4.target=void\ enemyTurn()
+comment5.params=
+comment5.target=void\ bossTurn()
+comment6.params=
+comment6.target=boolean\ playerFirst()
+comment6.text=\r\n\ returns\ true\ if\ the\ player\ goes\ first\r\n
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

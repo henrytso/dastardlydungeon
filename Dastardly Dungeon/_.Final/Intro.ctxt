@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Intro()
+comment1.params=
+comment1.target=java.lang.String\ getIntro()
+comment1.text=\r\n\ Prints\ the\ introduction\ to\ the\ game\r\n\ @return\ the\ player's\ name.\r\n
+comment2.params=
+comment2.target=void\ end()
+comment2.text=\r\n\ Prints\ the\ win\ screen\r\n
+comment3.params=message
+comment3.target=void\ printTorch(java.lang.String)
+comment3.text=\r\n\ Given\ a\ string,\ formats\ it\ to\ fit\ on\ the\ torch\ ASCII\ art,\ then\ prints\ it.\r\n\ @param\ Message\ to\ be\ printed\r\n
+comment4.params=
+comment4.target=void\ printGrave()
+comment4.text=\r\n\ Prints\ the\ loss\ screen\r\n
+numComments=5
